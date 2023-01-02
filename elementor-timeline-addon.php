@@ -3,7 +3,7 @@
  * Plugin Name: Elementor Timeline Addon
  * Description: Add Timeline section to your pages
  * Version:     1.0.0
- * Author:      Admin
+ * Author:      Sam
  * Text Domain: ea-timeline
  *
  * Elementor tested up to: 3.7.0
@@ -19,7 +19,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  *
  * Include widget file and register widget class.
  *
- * @author multanishebaz@gmail.com
+ * @author samfalese@gmail.com
  * @since 1.0.0
  * @param \Elementor\Widgets_Manager $widgets_manager Elementor widgets manager.
  * @return void
